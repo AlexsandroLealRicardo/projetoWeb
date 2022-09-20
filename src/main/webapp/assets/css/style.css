@@ -6,13 +6,6 @@ form{
  right: 33%;
 }
 
-
-h5{
- position: absolute;
- top: 30%;
- left: 33%;
-}
-
 .msg{
  position: absolute;
  top: 10%;
@@ -21,5 +14,11 @@ h5{
    color: #664d03;
     background-color: #fff3cd;
     border-color: #ffecb5;
+}
+IMG.displayed {
+ position: absolute;
+ top: 20%;
+ left: 34%;
+ right: 33%;
 
 }

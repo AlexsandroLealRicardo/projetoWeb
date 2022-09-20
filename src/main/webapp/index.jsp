@@ -17,7 +17,7 @@
 
 </head>
 <body>
-
+<IMG class="displayed" src="assets/images/logo.png">
 
 <form action="<%=request.getContextPath() %>/ServletLogin" method="post" class="row g-3 needs-validation" novalidate>
 
