@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	
 	<!-- Favicon icon -->
-    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon"teste>
 	
 	<title>ShiftAlt Tecnologias</title>
 
